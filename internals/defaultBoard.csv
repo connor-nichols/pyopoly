@@ -1,0 +1,2 @@
+name,color,purchasePrice,isGo,isJailSpace,isFreeParking,isGoToJail
+Go, None, None, True, False, False, False
